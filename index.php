@@ -11,7 +11,9 @@
   <header>
     <nav>
       <div class="username-container"><h1>Saleem</h1></div>
-      <ul></ul>
+      <ul>
+        <li>Home</li>
+      </ul>
     </nav>
   </header>
 </body>

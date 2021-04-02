@@ -2,3 +2,26 @@ html, body, * {
   padding: 0;
   margin: 0;
 }
+
+header {
+  /* width: 100%; */
+  background-color: #005177;
+  padding: 1.5em 2em;
+  color: aliceblue;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.username-container {
+  /* background-color: #333; */
+}
+
+nav>ul {
+  /* background-color: #251; */
+  list-style: none;
+}
