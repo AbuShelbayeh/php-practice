@@ -1,5 +1,14 @@
-<?php
-
-$name = 'Saleem Abu Shelbayeh';
-$age = 22;
-echo "Hello, $name!" . "<br>Your Age is: " . $age . "<br>";
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Learn PHP | Laracasts Course</title>
+</head>
+<body>
+  <header>
+    <nav></nav>
+  </header>
+</body>
+</html>
